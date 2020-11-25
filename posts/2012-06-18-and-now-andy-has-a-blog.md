@@ -7,7 +7,6 @@ layout: post
 guid: https://lucabolognese.wordpress.com/?p=98
 categories:
   - C
-categories:
   - Miscellanea
 ---
 For those of you interested in C++, Andy Sawyer now has a blog [here](http://blog.pureabstract.org/). [Here](http://blog.pureabstract.org/2012/06/09/choosing-an-stl-sequence-container/) is an extended discussion on how to choose an STL container. Enjoy !!
